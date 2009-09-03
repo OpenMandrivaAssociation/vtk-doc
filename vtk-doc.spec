@@ -7,6 +7,7 @@ Group: Development/Other
 URL: http://www.vtk.org/
 Source0: http://www.vtk.org/doc/release/5.4/vtkDocHtml-%{version}.tar.gz
 BuildArch: noarch
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Obsoletes: %{name}-docs < %{version}-%{release}
 Provides: %{name}-docs = %{version}-%{release}
 
