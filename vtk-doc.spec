@@ -29,3 +29,15 @@ tar xfz %{SOURCE0}
 
 %clean 
 rm -rf %buildroot
+
+
+%changelog
+* Thu Jul 15 2010 Paulo Andrade <pcpa@mandriva.com.br> 5.6.0-1mdv2011.0
++ Revision: 553821
+- Update to version 5.6.0.
+
+* Thu Sep 03 2009 Helio Chissini de Castro <helio@mandriva.com> 5.4.2-5mdv2010.0
++ Revision: 428111
+- imported package vtk-doc
+
+
