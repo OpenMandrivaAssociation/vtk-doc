@@ -1,6 +1,6 @@
 Name: vtk-doc
 Version: 5.6.0
-Release: %mkrel 1
+Release: 2
 License: BSD
 Summary: Documentation for VTK %version
 Group: Development/Other
