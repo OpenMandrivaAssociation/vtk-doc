@@ -4,7 +4,7 @@ Release: 2
 License: BSD
 Summary: Documentation for VTK %version
 Group: Development/Other
-URL: http://www.vtk.org/
+URL: https://www.vtk.org/
 Source0: http://www.vtk.org/doc/release/5.6/vtkDocHtml-%{version}.tar.gz
 Source1: vtk-doc.rpmlintrc
 BuildArch: noarch
